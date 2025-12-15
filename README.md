@@ -538,15 +538,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SQLAlchemy** for the excellent ORM
 - **Indian Agricultural Community** for inspiration and real-world use cases
 
----
-
-## 📞 Support
-
-For support, questions, or feature requests:
-- Open an issue on [GitHub Issues](https://github.com/amrutahere08/AgroTracking/issues)
-- Contact: amrutahere08@gmail.com
-
----
 
 ## 🔮 Future Enhancements
 
@@ -569,8 +560,7 @@ For support, questions, or feature requests:
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 
-**Current Version**: 1.0.0  
-**Last Updated**: December 2025
+
 
 ---
 
