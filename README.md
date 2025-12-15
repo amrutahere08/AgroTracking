@@ -22,9 +22,7 @@ A comprehensive web-based agricultural management system designed to help farmer
 - [API Documentation](#-api-documentation)
 - [Screenshots](#-screenshots)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+
 
 ---
 
@@ -486,41 +484,6 @@ AgroTrackingProject/
 └── .gitignore                   # Git ignore rules
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**:
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use ESLint for JavaScript code
-- Write meaningful commit messages
-- Add comments for complex logic
-- Update documentation for new features
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
