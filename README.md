@@ -19,63 +19,62 @@ A comprehensive web-based agricultural management system designed to help farmer
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [API Documentation](#-api-documentation)
-- [Screenshots](#-screenshots)
 - [Project Structure](#-project-structure)
 
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🌱 Crop Management
+###  Crop Management
 - **Comprehensive Crop Tracking**: Monitor multiple crops with detailed information including planting dates, harvest schedules, and growth status
 - **Crop Performance Analytics**: Track yield amounts, area coverage, and revenue generation per crop
 - **Status Monitoring**: Real-time status updates (Planted, Growing, Harvested)
 - **Indian Agricultural Focus**: Pre-configured with popular Indian crops (Basmati Rice, Wheat, Cotton, Sugarcane, etc.)
 
-### 🏞️ Field Management
+### Field Management
 - **Multi-Field Support**: Manage multiple fields (Khet) with individual tracking
 - **Soil Type Classification**: Track soil types (Alluvial, Black Soil, Red Soil, Laterite)
 - **Location Mapping**: GPS-based field location tracking
 - **Size Monitoring**: Accurate field size measurement in acres
 
-### 📊 Advanced Analytics Dashboard
+### Advanced Analytics Dashboard
 - **Revenue & Profit Trends**: Interactive charts showing monthly revenue and profit trends
 - **Crop Performance Visualization**: Visual representation of crop yields and performance metrics
 - **Real-time Statistics**: Live updates on total crops, fields, activities, and inventory
 - **Data-Driven Insights**: Make informed decisions based on historical data
 
-### 📦 Inventory Management
+###  Inventory Management
 - **Resource Tracking**: Monitor seeds, fertilizers, pesticides, and equipment
 - **Quantity Management**: Track stock levels with unit measurements
 - **Category Organization**: Organized inventory by categories (Seeds, Fertilizer, Pesticide, Equipment)
 - **Low Stock Alerts**: Automated notifications for inventory replenishment
 
-### 📅 Activity Logging
+###  Activity Logging
 - **Comprehensive Activity Tracking**: Log all farming activities (Planting, Irrigation, Fertilizing, Harvesting, Pest Control, Weeding)
 - **Date-based Records**: Maintain detailed historical records of all farm operations
 - **Field-specific Activities**: Link activities to specific fields for better organization
 - **Activity Timeline**: Visual timeline of all farming operations
 
-### 🚨 Smart Alert System
+###  Smart Alert System
 - **Priority-based Alerts**: High, Medium, and Low priority notifications
 - **Weather Alerts**: Monsoon warnings and weather-related notifications
 - **Harvest Reminders**: Automated alerts when crops are ready for harvest
 - **Irrigation Notifications**: Soil moisture-based irrigation reminders
 - **Custom Alert Types**: Weather, Harvest, Irrigation, and more
 
-### 🌤️ Weather Integration
+###  Weather Integration
 - **Current Weather**: Real-time temperature and humidity data
 - **Weather Forecast**: 3-day weather predictions
 - **Farming Recommendations**: Weather-based farming suggestions
 
-### 👥 User Management
+###  User Management
 - **Role-based Access Control**: Separate Admin and User (Farmer) roles
 - **Secure Authentication**: Password hashing with Werkzeug security
 - **Session Management**: Secure session handling with Flask
 - **Multi-user Support**: Support for multiple farmers with isolated data
 
-### 💰 Financial Tracking
+###  Financial Tracking
 - **Revenue Monitoring**: Track monthly revenue in Indian Rupees (₹)
 - **Profit Analysis**: Calculate and visualize profit margins
 - **Yearly Comparisons**: Compare financial performance across years
@@ -83,7 +82,7 @@ A comprehensive web-based agricultural management system designed to help farmer
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: React 19.2.3
@@ -116,7 +115,7 @@ A comprehensive web-based agricultural management system designed to help farmer
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -156,7 +155,7 @@ A comprehensive web-based agricultural management system designed to help farmer
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Prerequisites
 - **Python**: 3.8 or higher
@@ -210,7 +209,7 @@ npm install
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### Starting the Application
 
@@ -255,12 +254,12 @@ The React app will automatically open at: `http://localhost:3000`
 ### Sample Data Included
 
 The application comes pre-loaded with realistic Indian agricultural data:
-- ✅ 7 Indian crops (Rice, Wheat, Cotton, Sugarcane, Tomatoes, Onions, Soybeans)
-- ✅ 4 fields with local naming (Khet 1-4)
-- ✅ 6 farming activities
-- ✅ 6 inventory items
-- ✅ 4 months of revenue data (in ₹ INR)
-- ✅ 3 active alerts
+-  7 Indian crops (Rice, Wheat, Cotton, Sugarcane, Tomatoes, Onions, Soybeans)
+-  4 fields with local naming (Khet 1-4)
+-  6 farming activities
+-  6 inventory items
+-  4 months of revenue data (in ₹ INR)
+-  3 active alerts
 
 ---
 
@@ -423,32 +422,7 @@ GET /api/weather
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-Modern gradient-themed login interface with secure authentication.
-
-### User Dashboard
-Comprehensive dashboard with real-time statistics, recent activities, and quick access to all features.
-
-### Admin Dashboard
-Advanced analytics with revenue trends, crop performance charts, and system-wide management.
-
-### Crop Management
-Detailed crop tracking with status indicators, yield monitoring, and revenue tracking.
-
-### Field Management
-Multi-field management with soil type classification and location tracking.
-
-### Inventory System
-Resource management with category-based organization and quantity tracking.
-
-### Alert System
-Priority-based notification system with weather alerts and harvest reminders.
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 AgroTrackingProject/
@@ -484,7 +458,7 @@ AgroTrackingProject/
 ```
 
 
-## 👨‍💻 Author
+## Author
 
 **Amruta Hegde**
 
@@ -493,7 +467,7 @@ AgroTrackingProject/
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **React Team** for the amazing frontend framework
 - **Flask Team** for the lightweight and powerful backend framework
@@ -501,7 +475,7 @@ AgroTrackingProject/
 - **Indian Agricultural Community** for inspiration and real-world use cases
 
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Mobile application (React Native)
 - [ ] Real-time weather API integration
@@ -516,7 +490,7 @@ AgroTrackingProject/
 
 ---
 
-## 📊 Project Status
+##  Project Status
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
@@ -527,8 +501,6 @@ AgroTrackingProject/
 ---
 
 <div align="center">
-
-### ⭐ Star this repository if you find it helpful!
 
 Made with ❤️ for Indian Farmers
 
